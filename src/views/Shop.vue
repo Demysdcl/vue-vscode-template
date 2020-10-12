@@ -1,9 +1,3 @@
-<template>
-  <div>
-    <h1>Shopping</h1>
-  </div>
-</template>
-
 <script>
 export default {
   setup() {
@@ -12,4 +6,14 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<template>
+  <div>
+    <h1>Shopping</h1>
+  </div>
+</template>
+
+<style lang="scss" scoped>
+.my-div {
+  color: $color-dark;
+}
+</style>
