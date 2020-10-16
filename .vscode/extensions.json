@@ -7,10 +7,10 @@
     "EditorConfig.EditorConfig",
     "dbaeumer.vscode-eslint",
     "maantje.vue-discovery",
-    "wanfu.jump-to-alias-file",
     "mrmlnc.vscode-scss",
     "christian-kohler.npm-intellisense",
     "Zignd.html-css-class-completion",
-    "eg2.vscode-npm-script"
+    "eg2.vscode-npm-script",
+    "ionutvmi.path-autocomplete"
   ],
 }
